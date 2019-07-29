@@ -1,0 +1,7 @@
+NumberOfFactory:3
+AlphabetsGeneratedFromFactory1:a n i s h a
+Rate1:2000
+AlphabetsGeneratedFromFactory2:z h r s t
+Rate2:2000
+AlphabetsGeneratedFromFactory3:g e i b z
+Rate3:2000
